@@ -1,3 +1,4 @@
 deepseek-kieran-ext/package-lock.json
-deepseek-kieran-ext/node_modules
 package-lock.json
+node_modules/
+deepseek-kieran-ext/node_modules/
